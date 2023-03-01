@@ -1,0 +1,66 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+    background: linear-gradient(to right, blue, red);
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: algerian;
+}
+#miCanvas {
+    border: groove 2px red;
+    background: black;
+    box-shadow: 10px 10px 10px #888888;
+}
+.botonesMover{
+    color: #e8e8e8;
+    background-color: #006df1;
+    border-radius: 10px;
+    height: 30px;
+    width: 25%;
+    margin: 1%;
+    font-size: 14px;
+    font-weight: bold;
+}
+.botonDisparo{
+    color: #e8e8e8;
+    background-color: #ae0000;
+    border-radius: 10px;
+    height: 30px;
+    width: 42%;
+    margin: 1%;
+    font-size: 14px;
+    font-weight: bold;
+}
+.botonReiniciar{
+    color: #e8e8e8;
+    background-color: #169300;
+    border-radius: 10px;
+    height: 30px;
+    width: 25%;
+    margin: 1% auto;
+    font-size: 14px;
+    font-weight: bold;
+    display: none;
+}
+.botonPausa{
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    height: 42px;
+    width: 50px;
+    text-align: center;
+    margin: auto;
+}
+.botonPlay{
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    height: 42px;
+    width: 50px;
+    text-align: center;
+    margin: auto;
+}
+
